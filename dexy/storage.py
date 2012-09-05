@@ -1,6 +1,6 @@
 from dexy.plugin import PluginMeta
 import shutil
-from ordereddict import OrderedDict
+from dexy.common import OrderedDict
 import os
 
 # Generic Data

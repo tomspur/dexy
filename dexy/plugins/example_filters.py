@@ -3,7 +3,7 @@ Filters written to be examples of how to write filters.
 """
 from dexy.doc import Doc
 from dexy.filter import Filter
-from ordereddict import OrderedDict
+from dexy.common import OrderedDict
 
 class KeyValueExample(Filter):
     ALIASES = ['keyvalueexample']

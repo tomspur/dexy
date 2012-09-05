@@ -1,7 +1,7 @@
 from dexy.tests.utils import assert_output
 from dexy.tests.utils import temprun
 from dexy.doc import Doc
-from ordereddict import OrderedDict
+from dexy.common import OrderedDict
 
 def test_join_filter():
     contents = OrderedDict()

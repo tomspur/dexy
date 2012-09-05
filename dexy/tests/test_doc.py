@@ -1,6 +1,6 @@
 from dexy.doc import Doc
 from dexy.doc import PatternDoc
-from ordereddict import OrderedDict
+from dexy.common import OrderedDict
 from dexy.exceptions import *
 from dexy.filter import DexyFilter
 from dexy.data import Data

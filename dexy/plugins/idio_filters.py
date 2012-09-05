@@ -1,6 +1,6 @@
 from dexy.plugins.pygments_filters import PygmentsFilter
 from idiopidae.runtime import Composer
-from ordereddict import OrderedDict
+from dexy.common import OrderedDict
 import idiopidae.parser
 import re
 

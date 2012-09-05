@@ -1,7 +1,7 @@
 from dexy.filter import Filter
 import re
 import os
-from ordereddict import OrderedDict
+from dexy.common import OrderedDict
 
 class SplitHtmlFilter(Filter):
     """

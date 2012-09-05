@@ -7,7 +7,7 @@ from dexy.runner import Runner
 from dexy.utils import char_diff
 from modargs import args as modargs
 from nose.exc import SkipTest
-from ordereddict import OrderedDict
+from dexy.common import OrderedDict
 import dexy.commands
 import dexy.data
 import dexy.metadata

@@ -1,5 +1,5 @@
 from dexy.filter import Filter
-from ordereddict import OrderedDict
+from dexy.common import OrderedDict
 from pygments import highlight
 from pygments.formatters import HtmlFormatter
 from pygments.formatters import LatexFormatter

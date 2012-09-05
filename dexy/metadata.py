@@ -1,5 +1,5 @@
 from dexy.plugin import PluginMeta
-from ordereddict import OrderedDict
+from dexy.common import OrderedDict
 import hashlib
 import sqlite3
 
